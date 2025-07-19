@@ -1,3 +1,5 @@
+# The Spotify Streaming Habits Dashboard
+
 Project Overview:
 The Spotify Streaming Habits Dashboard was built to analyze and visualize a user's music streaming history. The dataset includes details like playtime, artists, tracks, albums, and reasons for playing or stopping music. Using Power BI, interactive visuals were created to showcase user preferences and streaming behavior.
 
